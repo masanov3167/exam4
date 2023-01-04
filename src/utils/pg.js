@@ -23,3 +23,5 @@ const pool = new Pool({
   }
 
   module.exports = new PostgreSql;
+
+  
